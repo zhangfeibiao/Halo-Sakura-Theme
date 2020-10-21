@@ -74,7 +74,8 @@
     <!-- m-nav-center -->
     <div id="mo-nav">
         <div class="m-avatar">
-            <img src="${(user.avatar)!'${theme_base!}/images/avatar.jpg'}">
+<#--            <img src="${(user.avatar)!'${theme_base!}/images/avatar.jpg'}">-->
+            <img src="https://cdn.jsdelivr.net/gh/zhangfeibiao/files@master/images/avatar.png">
         </div>
 
         <div class="m-search">

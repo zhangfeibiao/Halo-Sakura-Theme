@@ -65,7 +65,8 @@
 <#--					</#if>-->
 <#--				</div><!-- .site-branding &ndash;&gt;-->
 				<div class="header-user-avatar">
-					 <img src="${(user.avatar)!}" width="30" height="30">
+<#--					 <img src="${(user.avatar)!}" width="30" height="30">-->
+					 <img src="https://cdn.jsdelivr.net/gh/zhangfeibiao/files@master/images/avatar.png" width="30" height="30">
 					<div class="header-user-menu">
 						<div class="herder-user-name">
 							<div class="herder-user-name-u">${(user.nickname)!}</div>
